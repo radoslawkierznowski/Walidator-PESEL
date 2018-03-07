@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="Walidator_PESEL.Window1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="Walidator_PESEL"
+	Height="300"
+	Width="300">
+	<Grid>
+		<TextBox
+			Grid.Column="0"
+			Grid.Row="0"
+			VerticalAlignment="Top"
+			x:Name="Pesel"
+			Width="180"
+			HorizontalAlignment="Right"
+			Margin="0,25,8,0" />
+		<TextBlock
+			Width="72"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Right"
+			VerticalAlignment="Top"
+			Margin="0,24,188,0">
+			<Run
+				Text="PESEL" />
+		</TextBlock>
+		<Button
+			Content="Weryfikuj"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="105,128,0,0"
+			x:Name="Validate"
+			Click="Validate_Click" />
+		<TextBlock
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Margin="117.5,190,0,0"
+			x:Name="Status" />
+	</Grid>
+</Window>

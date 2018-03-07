@@ -1,0 +1,9 @@
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\bin\Release\Walidator PESEL.exe.config
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\bin\Release\Walidator PESEL.exe
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Release\Walidator PESEL.csprojResolveAssemblyReference.cache
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Release\Window1.baml
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Release\Window1.g.cs
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Release\App.g.cs
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Release\Walidator PESEL_MarkupCompile.cache
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Release\Walidator PESEL.g.resources
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Release\Walidator PESEL.exe

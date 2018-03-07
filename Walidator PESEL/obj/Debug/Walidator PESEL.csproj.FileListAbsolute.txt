@@ -1,0 +1,22 @@
+D:\LiberKey\MyApps\SharpDevelopPortable\Data\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\bin\Debug\Walidator PESEL.exe.config
+D:\LiberKey\MyApps\SharpDevelopPortable\Data\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\bin\Debug\Walidator PESEL.exe
+D:\LiberKey\MyApps\SharpDevelopPortable\Data\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\bin\Debug\Walidator PESEL.pdb
+D:\LiberKey\MyApps\SharpDevelopPortable\Data\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\Walidator PESEL.csprojResolveAssemblyReference.cache
+D:\LiberKey\MyApps\SharpDevelopPortable\Data\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\Window1.baml
+D:\LiberKey\MyApps\SharpDevelopPortable\Data\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\Window1.g.cs
+D:\LiberKey\MyApps\SharpDevelopPortable\Data\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\App.g.cs
+D:\LiberKey\MyApps\SharpDevelopPortable\Data\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\Walidator PESEL_MarkupCompile.cache
+D:\LiberKey\MyApps\SharpDevelopPortable\Data\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\Walidator PESEL.g.resources
+D:\LiberKey\MyApps\SharpDevelopPortable\Data\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\Walidator PESEL.exe
+D:\LiberKey\MyApps\SharpDevelopPortable\Data\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\Walidator PESEL.pdb
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\Walidator PESEL.csprojResolveAssemblyReference.cache
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\Window1.baml
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\Window1.g.cs
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\App.g.cs
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\Walidator PESEL_MarkupCompile.cache
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\Walidator PESEL.g.resources
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\Walidator PESEL.exe
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\bin\Debug\Walidator PESEL.exe.config
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\bin\Debug\Walidator PESEL.exe
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\bin\Debug\Walidator PESEL.pdb
+C:\Users\rados\OneDrive\Dokumenty\SharpDevelop Projects\Walidator PESEL\Walidator PESEL\obj\Debug\Walidator PESEL.pdb
